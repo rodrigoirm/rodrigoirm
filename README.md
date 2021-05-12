@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigoirm
-- 👀 I’m interested in cellular automata, quantum information, maths applications in finance, and web and game development.
-- 🌱 I’m currently learning Python to elaborate agent-based models.
+- 👀 I’m interested in cellular automata, quantum information, maths applications in finance, and web development.
+- 🌱 I’m currently learning Python and CSS.
 - 💞️ I’m looking to collaborate on projects that involve any of the aforementioned topics of interest above.
 - 📫 How to reach me: DM me on Twitter (@orodramos).
 
