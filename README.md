@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @rodrigoirm
-- 👀 I’m interested in cellular automata, quantum computation, NLP and data science.
-- 🌱 I’m currently learning the basics of machine learning and ds.
-- 💞️ I’m looking to collaborate on projects that involve any of the aforementioned topics of interest.
-- 📫 How to reach me: dm on twitter.
-
-<!---
-rodrigoirm/rodrigoirm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+I am a fresh master's student working on foundations of quantum theory at [Mathematical Foundations of Quantum Theory Group](https://www.ime.unicamp.br/~mfq/). To be quite frank, I find programming a bit boring (except when it comes to solving a mathematical or physics problem), but hey, I guess sooner or later one will have to learn a thing or two about it.
